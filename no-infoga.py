@@ -1,4 +1,7 @@
-#coader : akash black hat
+#Coader :Akash Black Hat
+#Date   :18/01/2023
+#Time   :Night 1:30
+#Mood   :Fuck off
 from opencage.geocoder import OpenCageGeocode
 from phonenumbers import ( geocoder, carrier, parse )
 from os import system
@@ -84,3 +87,4 @@ if __name__ == '__main__':
         print('\n:: Remember drink water!')
     except Exception:
         print('\n:: An error occurred when trying to continue with the execution of the program, it is an unhandled exception was thrown.')
+ # Happy hacking
