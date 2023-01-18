@@ -12,7 +12,7 @@
 * Termux 
 
 * Parrot OS
-# Installation
+# Installation 🛠️
 # Kali Linux / Ubuntu / Parrot OS :
     sudo apt-get update
     sudo apt-get install git
