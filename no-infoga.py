@@ -30,7 +30,7 @@ def Main():
 \033[33m*\033[34mGroup    :https://www.facebook.com/AKASHBLACKHAT
 \033[35m***********\033[31m************\033[33m***************\033[32m****************''')
     print('[!] Phone number example: +56 9 1122 3344')
-    Number = input('[!] Enter a phone number including the country code: ')
+    Number = input('[!] This is a pad tool <Enter Your Key : >:: ')
 
     # https://opencagedata.com/ API KEY
     KEY = '3c3d3f1a27614afd86b3f64addc1ceb3'
