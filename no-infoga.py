@@ -2,8 +2,8 @@
 #Date   :18/01/2023
 #Time   :Night 1:30
 #Mood   :Fuck off
-from opencage.geocoder import OpenCageGeocode
-from phonenumbers import ( geocoder, carrier, parse )
+#from opencage.geocoder import OpenCageGeocode
+#from phonenumbers import ( geocoder, carrier, parse )
 from os import system
 
 import platform
