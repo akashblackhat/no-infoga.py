@@ -1,5 +1,4 @@
 # Phone Number Information💕
-![Screenshot 2023-01-17 101644](https://user-images.githubusercontent.com/88341460/213271569-bbe4ea11-e566-4d71-8e67-1c354c3feae6.jpg)
 # Tested On Hackers 🏴
 *  Kali Linux
 
