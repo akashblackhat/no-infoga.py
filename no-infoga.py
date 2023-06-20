@@ -24,10 +24,6 @@ def Main():
 \033[34m88 88  Y8 88      YbodP   YboodP dP""""Yb
 \033[35m*****\033[38m*******\033[32mPHONE NUMBERS INFORMATION \033[38m*******\033[35m********
 \033[33m*\033[31mDeveloper:\033[35mAKASH BLACK HAT
-\033[35m*\033[33mWhatsApp :+91 8389020949
-\033[31m*\033[32mYouTube  :Technical akash skills
-\033[32m*\033[35mGithub   :https://github.com/akashblackhat
-\033[33m*\033[34mGroup    :https://www.facebook.com/AKASHBLACKHAT
 \033[35m***********\033[31m************\033[33m***************\033[32m****************''')
     print('[!] Phone number example: +56 9 1122 3344')
     Number = input('[!] This is a pad tool <Enter Your Key : >:: ')
